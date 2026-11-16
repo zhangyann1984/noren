@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://zhangyann1984.github.io/noren/sitemap.xml
